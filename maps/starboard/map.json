@@ -37,21 +37,21 @@
             "static": false,
             "minScale": null,
             "source": {
-                "url": "parallax/layer1.png",
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [
                 {
-                    "url": "parallax/layer1.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                     "composition": "source-over",
                     "parallaxScale": {
                         "x": 0.1,
@@ -59,7 +59,7 @@
                     }
                 },
                 {
-                    "url": "parallax/layer2.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer2.png",
                     "composition": "lighter",
                     "parallaxScale": {
                         "x": 0.2,
@@ -67,7 +67,7 @@
                     }
                 },
                 {
-                    "url": "parallax/layer3.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer3.png",
                     "composition": "lighter",
                     "parallaxScale": {
                         "x": 0.3,
@@ -75,7 +75,7 @@
                     }
                 },
                 {
-                    "url": "parallax/layer4.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer4.png",
                     "composition": "source-atop",
                     "parallaxScale": {
                         "x": 0.1,
