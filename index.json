@@ -3,5 +3,40 @@
         "mapId": "starboard",
         "displayName": "Starboard",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/starboard/map.json"
+    },
+    {
+        "mapId": "spacemall",
+        "displayName": "Space Mall",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/spacemall/map.json"
+    },
+    {
+        "mapId": "silica",
+        "displayName": "Silica Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/silica/map.json"
+    },
+    {
+        "mapId": "sepultum",
+        "displayName": "Sepultum Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/sepultum/map.json"
+    },
+    {
+        "mapId": "saltern",
+        "displayName": "Saltern",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map.json"
+    },
+    {
+        "mapId": "reach",
+        "displayName": "Reach",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/reach/map.json"
+    },
+    {
+        "mapId": "prism",
+        "displayName": "Prism Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/prism/map.json"
+    },
+    {
+        "mapId": "plasma",
+        "displayName": "Plasma",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/plasma/map.json"
     }
 ]
