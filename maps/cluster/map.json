@@ -1,0 +1,84 @@
+{
+    "mapId": "cluster",
+    "displayName": "Cluster",
+    "type": "station",
+    "attribution": "Scribbles0",
+    "grids": [
+        {
+            "gridId": "794",
+            "displayName": "NTCW Cluster Station LV-499",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": 11045.286,
+                "y": 2007.6294
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 3648,
+                    "y": 4256
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cluster/map/0"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "static": false,
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/Parallaxes/layer1.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.001953125,
+                        "y": 0.001953125
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.0033749938,
+                        "y": 0.0033749938
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.010625005,
+                        "y": 0.010625005
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.012734354,
+                        "y": 0.012734354
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.015648007,
+                        "y": 0.015648007
+                    }
+                }
+            ]
+        }
+    ]
+}

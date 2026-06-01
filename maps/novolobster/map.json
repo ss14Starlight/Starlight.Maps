@@ -1,0 +1,60 @@
+{
+    "mapId": "novolobster",
+    "displayName": "Novo Lobster",
+    "type": "station",
+    "attribution": "CawsForConcern",
+    "grids": [
+        {
+            "gridId": "794",
+            "displayName": "Novo Lobster NTCW LV-047",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": 530.61426,
+                "y": -13358.715
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 7008,
+                    "y": 5024
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map/0"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "static": false,
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/_Starlight/Parallaxes/moody_land_0.95x0.95.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.01999998,
+                        "y": 0.01999998
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/_Starlight/Parallaxes/dark_noise_2x2.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.050000012,
+                        "y": 0.050000012
+                    }
+                }
+            ]
+        }
+    ]
+}

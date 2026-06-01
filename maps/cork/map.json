@@ -1,0 +1,123 @@
+{
+    "mapId": "cork",
+    "displayName": "Cork Outpost",
+    "type": "station",
+    "attribution": "PubliclyExecutedPig",
+    "grids": [
+        {
+            "gridId": "794",
+            "displayName": "NTVLP Cork NX-784",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -2194.9836,
+                "y": -1768.0522
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 4064,
+                    "y": 3232
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/0"
+        },
+        {
+            "gridId": "1191",
+            "displayName": "NT-██-███-██",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -9135.111,
+                "y": -16750.668
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 1440,
+                    "y": 1344
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/1"
+        },
+        {
+            "gridId": "1588",
+            "displayName": "ERT Shuttle KRN",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": 319823.5,
+                "y": -465
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 352,
+                    "y": 640
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/2"
+        },
+        {
+            "gridId": "1985",
+            "displayName": "grid",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -978.98376,
+                "y": -1768.0522
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 160,
+                    "y": 480
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/3"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "static": false,
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/_Starlight/Parallaxes/shoreline_water.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.5,
+                        "y": 0.5
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/_Starlight/Parallaxes/shoreline_water.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.5,
+                        "y": 0.5
+                    }
+                }
+            ]
+        }
+    ]
+}

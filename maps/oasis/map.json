@@ -1,0 +1,105 @@
+{
+    "mapId": "oasis",
+    "displayName": "Oasis",
+    "type": "station",
+    "attribution": "CptJeanLuc",
+    "grids": [
+        {
+            "gridId": "794",
+            "displayName": "NTB Oasis QT-473",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -2738.9778,
+                "y": -3911.1636
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 4992,
+                    "y": 5888
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map/0"
+        },
+        {
+            "gridId": "1191",
+            "displayName": "Perma Exile",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -7216.5293,
+                "y": -3169.2756
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 3488,
+                    "y": 3744
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map/1"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "static": false,
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/Parallaxes/layer1.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.001953125,
+                        "y": 0.001953125
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.0033749938,
+                        "y": 0.0033749938
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.010625005,
+                        "y": 0.010625005
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.012734354,
+                        "y": 0.012734354
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.015648007,
+                        "y": 0.015648007
+                    }
+                }
+            ]
+        }
+    ]
+}
