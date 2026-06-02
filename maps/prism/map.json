@@ -1,12 +1,12 @@
 {
     "mapId": "prism",
-    "displayName": "Prism Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 75.13213,
                 "y": 110.399086
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 6304.0,
-                  "y": 4224.0
+                    "x": 6304.0,
+                    "y": 4224.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/prism/map/0"

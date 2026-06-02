@@ -1,12 +1,12 @@
 {
     "mapId": "hotel",
-    "displayName": "Hotel",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -13.625774,
                 "y": 45.06555
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 4640.0,
-                  "y": 4576.0
+                    "x": 4640.0,
+                    "y": 4576.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/hotel/map/0"

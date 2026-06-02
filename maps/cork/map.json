@@ -1,12 +1,12 @@
 {
     "mapId": "cork",
-    "displayName": "Cork Outpost",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -0.59324175,
                 "y": -0.7483667
@@ -17,16 +17,17 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 3008.0,
-                  "y": 2528.0
+                    "x": 3008.0,
+                    "y": 2528.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/0"
         },
         {
             "gridId": "3176",
+            "displayName": "Captured Island",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -1500.47223,
                 "y": 503.45834
@@ -37,16 +38,17 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 1440.0,
-                  "y": 1344.0
+                    "x": 1440.0,
+                    "y": 1344.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/1"
         },
         {
             "gridId": "3573",
+            "displayName": "Shuttle",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -9999.484,
                 "y": -0.46875
@@ -57,8 +59,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 352.0,
-                  "y": 640.0
+                    "x": 352.0,
+                    "y": 640.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/2"

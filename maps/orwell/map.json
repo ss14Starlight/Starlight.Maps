@@ -1,12 +1,12 @@
 {
     "mapId": "orwell",
-    "displayName": "Orwell Citadel Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -86.71729,
                 "y": 687.4666
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 6304.0,
-                  "y": 4256.0
+                    "x": 6304.0,
+                    "y": 4256.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/orwell/map/0"

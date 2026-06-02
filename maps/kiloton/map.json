@@ -1,12 +1,12 @@
 {
     "mapId": "kiloton",
-    "displayName": "Kiloton Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 218.15527,
                 "y": 857.75104
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 10112.0,
-                  "y": 7488.0
+                    "x": 10112.0,
+                    "y": 7488.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/kiloton/map/0"

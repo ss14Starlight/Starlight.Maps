@@ -1,12 +1,12 @@
 {
     "mapId": "box",
-    "displayName": "Box Station",
-    "attribution": null,
+    "attribution": "ACJM, Emisse",
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 419.5607,
                 "y": -155.17052
@@ -17,16 +17,17 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5696.0,
-                  "y": 5184.0
+                    "x": 5696.0,
+                    "y": 5184.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/box/map/0"
         },
         {
             "gridId": "1985",
+            "displayName": "Uncompleted shuttle",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 355.92282,
                 "y": -126.28264
@@ -37,8 +38,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 96.0,
-                  "y": 96.0
+                    "x": 96.0,
+                    "y": 96.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/box/map/1"
@@ -59,14 +60,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

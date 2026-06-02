@@ -1,12 +1,12 @@
 {
     "mapId": "lagan",
-    "displayName": "Lagan",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 375.80356,
                 "y": -189.14873
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5536.0,
-                  "y": 4896.0
+                    "x": 5536.0,
+                    "y": 4896.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lagan/map/0"

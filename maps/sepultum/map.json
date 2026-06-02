@@ -1,12 +1,12 @@
 {
     "mapId": "sepultum",
-    "displayName": "Sepultum Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 381.936,
                 "y": 321.5826
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 7872.0,
-                  "y": 6176.0
+                    "x": 7872.0,
+                    "y": 6176.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/sepultum/map/0"

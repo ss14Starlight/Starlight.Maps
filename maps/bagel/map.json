@@ -1,12 +1,12 @@
 {
     "mapId": "bagel",
-    "displayName": "Bagel Station",
-    "attribution": null,
+    "attribution": "Emisse",
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 107.651794,
                 "y": -245.51146
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 6848.0,
-                  "y": 5312.0
+                    "x": 6848.0,
+                    "y": 5312.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/bagel/map/0"
@@ -26,7 +26,7 @@
         {
             "gridId": "1191",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 59.6518,
                 "y": -285.51114
@@ -37,8 +37,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 1152.0,
-                  "y": 480.0
+                    "x": 1152.0,
+                    "y": 480.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/bagel/map/1"
@@ -59,14 +59,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

@@ -1,12 +1,12 @@
 {
     "mapId": "boxcars",
-    "displayName": "Boxcars",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 225.68633,
                 "y": 179.89307
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 2496.0,
-                  "y": 8416.0
+                    "x": 2496.0,
+                    "y": 8416.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/boxcars/map/0"

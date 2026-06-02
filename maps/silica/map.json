@@ -1,12 +1,12 @@
 {
     "mapId": "silica",
-    "displayName": "Silica Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -196.46172,
                 "y": -358.2677
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5536.0,
-                  "y": 5888.0
+                    "x": 5536.0,
+                    "y": 5888.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/silica/map/0"

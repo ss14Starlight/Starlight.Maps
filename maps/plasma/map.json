@@ -1,12 +1,12 @@
 {
     "mapId": "plasma",
-    "displayName": "Plasma",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -641.41766,
                 "y": 742.54626
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5152.0,
-                  "y": 4704.0
+                    "x": 5152.0,
+                    "y": 4704.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/plasma/map/0"

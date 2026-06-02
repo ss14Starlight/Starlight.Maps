@@ -1,12 +1,12 @@
 {
     "mapId": "elkridge",
-    "displayName": "Elkridge Depot",
-    "attribution": null,
+    "attribution": "Deerstop",
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -16.48933,
                 "y": 17.04064
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 4448.0,
-                  "y": 4224.0
+                    "x": 4448.0,
+                    "y": 4224.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/elkridge/map/0"

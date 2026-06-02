@@ -1,12 +1,12 @@
 {
     "mapId": "packed",
-    "displayName": "Packed",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -568.7413,
                 "y": 279.5669
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 4800.0,
-                  "y": 3968.0
+                    "x": 4800.0,
+                    "y": 3968.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/packed/map/0"

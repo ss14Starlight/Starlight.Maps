@@ -1,12 +1,12 @@
 {
     "mapId": "manor",
-    "displayName": "Manor Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -350.70743,
                 "y": -571.9072
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 6176.0,
-                  "y": 4672.0
+                    "x": 6176.0,
+                    "y": 4672.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/manor/map/0"

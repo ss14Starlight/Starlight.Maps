@@ -1,12 +1,12 @@
 {
     "mapId": "fland",
-    "displayName": "Fland Installation",
-    "attribution": null,
+    "attribution": "Emisse",
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -66.204765,
                 "y": -663.5827
@@ -17,51 +17,11 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 6912.0,
-                  "y": 5664.0
+                    "x": 6912.0,
+                    "y": 5664.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/fland/map/0"
-        },
-        {
-            "gridId": "1191",
-            "tiled": true,
-            "tileSize":256,
-            "offset": {
-                "x": -66.20477,
-                "y": -663.5827
-            },
-            "extent": {
-                "a": {
-                    "x": 0.0,
-                    "y": 0.0
-                },
-                "b": {
-                  "x": 32.0,
-                  "y": 32.0
-                }
-            },
-            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/fland/map/1"
-        },
-        {
-            "gridId": "1588",
-            "tiled": true,
-            "tileSize":256,
-            "offset": {
-                "x": -66.20477,
-                "y": -663.5827
-            },
-            "extent": {
-                "a": {
-                    "x": 0.0,
-                    "y": 0.0
-                },
-                "b": {
-                  "x": 32.0,
-                  "y": 32.0
-                }
-            },
-            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/fland/map/2"
         }
     ],
     "parallaxLayers": [

@@ -1,12 +1,12 @@
 {
     "mapId": "saltern",
-    "displayName": "Saltern",
     "attribution": null,
     "grids": [
         {
             "gridId": "397",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -236.45538,
                 "y": -504.14877
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 4672.0,
-                  "y": 3520.0
+                    "x": 4672.0,
+                    "y": 3520.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map/0"

@@ -1,12 +1,12 @@
 {
     "mapId": "cog",
-    "displayName": "Cog",
-    "attribution": null,
+    "attribution": "Spacemann",
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -37.15004,
                 "y": -121.357864
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5216.0,
-                  "y": 5280.0
+                    "x": 5216.0,
+                    "y": 5280.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cog/map/0"

@@ -1,12 +1,12 @@
 {
     "mapId": "oasis",
-    "displayName": "Oasis",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -849.20013,
                 "y": 137.53644
@@ -17,18 +17,19 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 4992.0,
-                  "y": 5568.0
+                    "x": 4992.0,
+                    "y": 5568.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map/0"
         },
         {
             "gridId": "10719",
+            "displayName": "Asteroid",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
-                "x": 4000.569,
+                "x": 5000.569,
                 "y": 300.86438
             },
             "extent": {
@@ -37,8 +38,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 3488.0,
-                  "y": 3744.0
+                    "x": 3488.0,
+                    "y": 3744.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map/1"

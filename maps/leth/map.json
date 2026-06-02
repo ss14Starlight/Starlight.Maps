@@ -1,12 +1,12 @@
 {
     "mapId": "leth",
-    "displayName": "Leth Vessel",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": -77.10684,
                 "y": -520.06866
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 3904.0,
-                  "y": 4352.0
+                    "x": 3904.0,
+                    "y": 4352.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/leth/map/0"

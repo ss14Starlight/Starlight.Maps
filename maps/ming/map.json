@@ -1,12 +1,12 @@
 {
     "mapId": "ming",
-    "displayName": "Ming Complex Station",
     "attribution": null,
     "grids": [
         {
             "gridId": "794",
+            "displayName": "Station",
             "tiled": true,
-            "tileSize":256,
+            "tileSize": 256,
             "offset": {
                 "x": 98.12268,
                 "y": 260.174
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                  "x": 5344.0,
-                  "y": 5152.0
+                    "x": 5344.0,
+                    "y": 5152.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/ming/map/0"
