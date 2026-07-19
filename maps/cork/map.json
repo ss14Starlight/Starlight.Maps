@@ -17,19 +17,19 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 3008.0,
-                    "y": 2528.0
+                    "x": 4064.0,
+                    "y": 3232.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/0"
         },
         {
-            "gridId": "3176",
+            "gridId": "1191",
             "displayName": "Captured Island",
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -1500.47223,
+                "x": -268.47223,
                 "y": 503.45834
             },
             "extent": {
@@ -45,12 +45,12 @@
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map/1"
         },
         {
-            "gridId": "3573",
+            "gridId": "1588",
             "displayName": "Shuttle",
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -9999.484,
+                "x": 9999.484,
                 "y": -0.46875
             },
             "extent": {
