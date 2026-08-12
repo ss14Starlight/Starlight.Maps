@@ -1,0 +1,80 @@
+{
+    "mapId": "novolobster",
+    "attribution": null,
+    "grids": [
+        {
+            "gridId": "794",
+            "displayName": "Station",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": 313.75842,
+                "y": 138.08345
+            },
+            "extent": {
+                "a": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "b": {
+                    "x": 7008,
+                    "y": 5024
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map/0"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/moody_land.png",
+                "extent": {
+                    "a": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "b": {
+                        "x": 10000.0,
+                        "y": 10000.0
+                    }
+                }
+            },
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/moody_land.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.1,
+                        "y": 0.1
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/moody_city.png",
+                    "composition": "lighter",
+                    "parallaxScale": {
+                        "x": 0.1,
+                        "y": 0.1
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/dark_noise.png",
+                    "composition": "source-atop",
+                    "parallaxScale": {
+                        "x": 0.3,
+                        "y": 0.3
+                    }
+                }
+            ]
+        }
+    ]
+}
