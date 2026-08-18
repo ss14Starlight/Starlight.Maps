@@ -1,123 +1,8 @@
 [
     {
-        "mapId": "starboard",
-        "displayName": "Starboard",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/starboard/map.json"
-    },
-    {
-        "mapId": "spacemall",
-        "displayName": "Space Mall",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/spacemall/map.json"
-    },
-    {
-        "mapId": "silica",
-        "displayName": "Silica Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/silica/map.json"
-    },
-    {
-        "mapId": "sepultum",
-        "displayName": "Sepultum Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/sepultum/map.json"
-    },
-    {
-        "mapId": "saltern",
-        "displayName": "Saltern",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map.json"
-    },
-    {
-        "mapId": "reach",
-        "displayName": "Reach",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/reach/map.json"
-    },
-    {
-        "mapId": "prism",
-        "displayName": "Prism Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/prism/map.json"
-    },
-    {
-        "mapId": "plasma",
-        "displayName": "Plasma",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/plasma/map.json"
-    },
-    {
-        "mapId": "packed",
-        "displayName": "Packed",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/packed/map.json"
-    },
-    {
-        "mapId": "orwell",
-        "displayName": "Orwell Citadel Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/orwell/map.json"
-    },
-    {
-        "mapId": "oasis",
-        "displayName": "Oasis",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map.json"
-    },
-    {
-        "mapId": "ming",
-        "displayName": "Ming Complex Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/ming/map.json"
-    },
-    {
-        "mapId": "manor",
-        "displayName": "Manor Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/manor/map.json"
-    },
-    {
-        "mapId": "lobster",
-        "displayName": "Lobster Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lobster/map.json"
-    },
-    {
-        "mapId": "leth",
-        "displayName": "Leth Vessel",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/leth/map.json"
-    },
-    {
-        "mapId": "lagan",
-        "displayName": "Lagan",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lagan/map.json"
-    },
-    {
-        "mapId": "kiloton",
-        "displayName": "Kiloton Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/kiloton/map.json"
-    },
-    {
-        "mapId": "hotel",
-        "displayName": "Hotel",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/hotel/map.json"
-    },
-    {
-        "mapId": "fland",
-        "displayName": "Fland Installation",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/fland/map.json"
-    },
-    {
-        "mapId": "elkridge",
-        "displayName": "Elkridge Depot",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/elkridge/map.json"
-    },
-    {
-        "mapId": "cork",
-        "displayName": "Cork Outpost",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map.json"
-    },
-    {
-        "mapId": "cog",
-        "displayName": "Cog",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cog/map.json"
-    },
-    {
-        "mapId": "cluster",
-        "displayName": "Cluster",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cluster/map.json"
-    },
-    {
-        "mapId": "boxcars",
-        "displayName": "Boxcars",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/boxcars/map.json"
+        "mapId": "bagel",
+        "displayName": "Bagel Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/bagel/map.json"
     },
     {
         "mapId": "box",
@@ -125,13 +10,118 @@
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/box/map.json"
     },
     {
-        "mapId": "bagel",
-        "displayName": "Bagel Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/bagel/map.json"
+        "mapId": "cluster",
+        "displayName": "Cluster",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cluster/map.json"
+    },
+    {
+        "mapId": "cog",
+        "displayName": "Cog",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cog/map.json"
+    },
+    {
+        "mapId": "cork",
+        "displayName": "Cork Outpost",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cork/map.json"
+    },
+    {
+        "mapId": "elkridge",
+        "displayName": "Elkridge Depot",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/elkridge/map.json"
+    },
+    {
+        "mapId": "fland",
+        "displayName": "Fland Installation",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/fland/map.json"
+    },
+    {
+        "mapId": "hotel",
+        "displayName": "Hotel",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/hotel/map.json"
+    },
+    {
+        "mapId": "kiloton",
+        "displayName": "Kiloton Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/kiloton/map.json"
+    },
+    {
+        "mapId": "lagan",
+        "displayName": "Lagan",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lagan/map.json"
+    },
+    {
+        "mapId": "leth",
+        "displayName": "Leth Vessel",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/leth/map.json"
+    },
+    {
+        "mapId": "manor",
+        "displayName": "Manor Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/manor/map.json"
+    },
+    {
+        "mapId": "ming",
+        "displayName": "Ming Complex Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/ming/map.json"
     },
     {
         "mapId": "novolobster",
         "displayName": "Novo Lobster",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map.json"
+    },
+    {
+        "mapId": "oasis",
+        "displayName": "Oasis",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map.json"
+    },
+    {
+        "mapId": "orwell",
+        "displayName": "Orwell Citadel Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/orwell/map.json"
+    },
+    {
+        "mapId": "packed",
+        "displayName": "Packed",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/packed/map.json"
+    },
+    {
+        "mapId": "plasma",
+        "displayName": "Plasma",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/plasma/map.json"
+    },
+    {
+        "mapId": "prism",
+        "displayName": "Prism Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/prism/map.json"
+    },
+    {
+        "mapId": "reach",
+        "displayName": "Reach",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/reach/map.json"
+    },
+    {
+        "mapId": "saltern",
+        "displayName": "Saltern",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map.json"
+    },
+    {
+        "mapId": "sepultum",
+        "displayName": "Sepultum Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/sepultum/map.json"
+    },
+    {
+        "mapId": "silica",
+        "displayName": "Silica Station",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/silica/map.json"
+    },
+    {
+        "mapId": "spacemall",
+        "displayName": "Space Mall",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/spacemall/map.json"
+    },
+    {
+        "mapId": "starboard",
+        "displayName": "Starboard",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/starboard/map.json"
     }
 ]
