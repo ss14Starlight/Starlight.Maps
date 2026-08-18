@@ -55,6 +55,11 @@
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map.json"
     },
     {
+        "mapId": "novolobster",
+        "displayName": "Novo Lobster",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map.json"
+    },
+    {
         "mapId": "ming",
         "displayName": "Ming Complex Station",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/ming/map.json"
@@ -63,11 +68,6 @@
         "mapId": "manor",
         "displayName": "Manor Station",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/manor/map.json"
-    },
-    {
-        "mapId": "lobster",
-        "displayName": "Lobster Station",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lobster/map.json"
     },
     {
         "mapId": "leth",
@@ -113,11 +113,6 @@
         "mapId": "cluster",
         "displayName": "Cluster",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/cluster/map.json"
-    },
-    {
-        "mapId": "boxcars",
-        "displayName": "Boxcars",
-        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/boxcars/map.json"
     },
     {
         "mapId": "box",
