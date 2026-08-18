@@ -128,5 +128,10 @@
         "mapId": "bagel",
         "displayName": "Bagel Station",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/bagel/map.json"
+    },
+    {
+        "mapId": "novolobster",
+        "displayName": "Novo Lobster",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/novolobster/map.json"
     }
 ]
