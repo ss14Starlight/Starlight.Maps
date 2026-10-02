@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -86.71729,
-                "y": 687.4666
+                "x": -344.9356,
+                "y": -20.434038
             },
             "extent": {
                 "a": {
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 6304.0,
-                    "y": 4256.0
+                    "x": 6400.0,
+                    "y": 4736.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/orwell/map/0"
@@ -39,14 +39,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

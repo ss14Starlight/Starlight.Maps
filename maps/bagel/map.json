@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 107.651794,
-                "y": -245.51146
+                "x": -760.8487,
+                "y": -37.335712
             },
             "extent": {
                 "a": {
@@ -17,7 +17,7 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 6848.0,
+                    "x": 6912.0,
                     "y": 5312.0
                 }
             },
@@ -28,8 +28,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 59.6518,
-                "y": -285.51114
+                "x": -808.65656,
+                "y": -77.565384
             },
             "extent": {
                 "a": {
@@ -74,32 +74,59 @@
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                     "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.01,
+                        "y": 0.01
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer2.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.2,
-                        "y": 0.2
+                        "x": 0.017,
+                        "y": 0.017
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer3.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.3,
-                        "y": 0.3
+                        "x": 0.053,
+                        "y": 0.053
                     }
-                },
+                }
+            ]
+        },
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": 0.0,
+                "y": -222.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/bagelstation/planet.png",
+                "extent": {
+                    "a": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "b": {
+                        "x": 1344.0,
+                        "y": 1344.0
+                    }
+                }
+            },
+            "layers": [
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer4.png",
-                    "composition": "source-atop",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/bagelstation/planet.png",
+                    "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.01,
+                        "y": 0.01
                     }
                 }
             ]

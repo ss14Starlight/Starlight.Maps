@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 15.062578,
-                "y": -6.0372767
+                "x": 246.84396,
+                "y": 33.602673
             },
             "extent": {
                 "a": {
@@ -54,32 +54,59 @@
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                     "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.02,
+                        "y": 0.02
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer2.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.2,
-                        "y": 0.2
+                        "x": 0.035,
+                        "y": 0.035
                     }
                 },
                 {
                     "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer3.png",
                     "composition": "lighter",
                     "parallaxScale": {
-                        "x": 0.3,
-                        "y": 0.3
+                        "x": 0.04,
+                        "y": 0.04
                     }
-                },
+                }
+            ]
+        },
+        {
+            "scale": {
+                "x": 0.1,
+                "y": 0.1
+            },
+            "offset": {
+                "x": -224.0,
+                "y": -574.0
+            },
+            "static": false,
+            "minScale": null,
+            "source": {
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/colony/PlanetColonyLarge.png",
+                "extent": {
+                    "a": {
+                        "x": 0.0,
+                        "y": 0.0
+                    },
+                    "b": {
+                        "x": 2048.0,
+                        "y": 2048.0
+                    }
+                }
+            },
+            "layers": [
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer4.png",
-                    "composition": "source-atop",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/colony/PlanetColonyLarge.png",
+                    "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.01,
+                        "y": 0.01
                     }
                 }
             ]

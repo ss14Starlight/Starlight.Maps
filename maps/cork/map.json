@@ -76,52 +76,36 @@
                 "x": 0.0,
                 "y": 0.0
             },
-            "static": false,
+            "static": true,
             "minScale": null,
             "source": {
-                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
+                "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/water/shoreline_water-base.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/water/shoreline_water-base.png",
                     "composition": "source-over",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.05,
+                        "y": 0.05
                     }
                 },
                 {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer2.png",
-                    "composition": "lighter",
-                    "parallaxScale": {
-                        "x": 0.2,
-                        "y": 0.2
-                    }
-                },
-                {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer3.png",
-                    "composition": "lighter",
-                    "parallaxScale": {
-                        "x": 0.3,
-                        "y": 0.3
-                    }
-                },
-                {
-                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer4.png",
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/water/shoreline_water.png",
                     "composition": "source-atop",
                     "parallaxScale": {
-                        "x": 0.1,
-                        "y": 0.1
+                        "x": 0.05,
+                        "y": 0.05
                     }
                 }
             ]

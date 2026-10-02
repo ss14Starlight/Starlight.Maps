@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 98.12268,
-                "y": 260.174
+                "x": 553.09,
+                "y": 481.98105
             },
             "extent": {
                 "a": {
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 5344.0,
-                    "y": 5152.0
+                    "x": 5536.0,
+                    "y": 5504.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/ming/map/0"
@@ -39,14 +39,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

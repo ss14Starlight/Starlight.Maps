@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -16.48933,
-                "y": 17.04064
+                "x": -40.37984,
+                "y": 148.00531
             },
             "extent": {
                 "a": {
@@ -39,14 +39,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

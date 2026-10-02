@@ -100,6 +100,11 @@
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/reach/map.json"
     },
     {
+        "mapId": "refinery",
+        "displayName": "Refinery Starport",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/refinery/map.json"
+    },
+    {
         "mapId": "saltern",
         "displayName": "Saltern",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/saltern/map.json"
@@ -108,6 +113,11 @@
         "mapId": "sepultum",
         "displayName": "Sepultum Station",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/sepultum/map.json"
+    },
+    {
+        "mapId": "serpentcrest",
+        "displayName": "Serpentcrest",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map.json"
     },
     {
         "mapId": "silica",

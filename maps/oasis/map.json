@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -849.20013,
-                "y": 137.53644
+                "x": 108.89326,
+                "y": 316.80075
             },
             "extent": {
                 "a": {
@@ -18,19 +18,19 @@
                 },
                 "b": {
                     "x": 4992.0,
-                    "y": 5568.0
+                    "y": 5888.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/oasis/map/0"
         },
         {
-            "gridId": "10719",
+            "gridId": "1191",
             "displayName": "Asteroid",
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 5000.569,
-                "y": 300.86438
+                "x": 5958.66239,
+                "y": 480.12869
             },
             "extent": {
                 "a": {
@@ -60,14 +60,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

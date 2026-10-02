@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": 375.80356,
-                "y": -189.14873
+                "x": -76.66521,
+                "y": -109.79007
             },
             "extent": {
                 "a": {
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 5536.0,
-                    "y": 4896.0
+                    "x": 5696.0,
+                    "y": 5248.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/lagan/map/0"
@@ -39,14 +39,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [

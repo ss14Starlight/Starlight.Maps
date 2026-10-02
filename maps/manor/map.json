@@ -8,8 +8,8 @@
             "tiled": true,
             "tileSize": 256,
             "offset": {
-                "x": -350.70743,
-                "y": -571.9072
+                "x": 17.334183,
+                "y": -402.0257
             },
             "extent": {
                 "a": {
@@ -17,8 +17,8 @@
                     "y": 0.0
                 },
                 "b": {
-                    "x": 6176.0,
-                    "y": 4672.0
+                    "x": 7232.0,
+                    "y": 4864.0
                 }
             },
             "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/manor/map/0"
@@ -39,14 +39,14 @@
             "source": {
                 "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/default/layer1.png",
                 "extent": {
-                      "a": {
+                    "a": {
                         "x": 0.0,
                         "y": 0.0
-                      },
-                      "b": {
+                    },
+                    "b": {
                         "x": 10000.0,
                         "y": 10000.0
-                      }
+                    }
                 }
             },
             "layers": [
