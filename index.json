@@ -123,5 +123,11 @@
         "mapId": "starboard",
         "displayName": "Starboard",
         "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/starboard/map.json"
+    },
+    {
+        "mapId": "serpentcrest",
+        "displayName": "Serpentcrest",
+        "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map.json",
+        "type": "station"
     }
 ]

@@ -1,0 +1,125 @@
+{
+    "mapId": "serpentcrest",
+    "displayName": "Serpentcrest",
+    "type": "station",
+    "grids": [
+        {
+            "gridId": "0",
+            "displayName": "NTB Serpentcrest EV-048",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -27202.67,
+                "y": 3665.162
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 5984,
+                    "y": 5632
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/0"
+        },
+        {
+            "gridId": "1",
+            "displayName": "GSS Provoker",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -27006.371,
+                "y": 4754.382
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 544,
+                    "y": 224
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/1"
+        },
+        {
+            "gridId": "2",
+            "displayName": "ruined pirate ship",
+            "tiled": true,
+            "tileSize": 256,
+            "offset": {
+                "x": -21773.71,
+                "y": 6323.397
+            },
+            "extent": {
+                "a": {
+                    "x": 0,
+                    "y": 0
+                },
+                "b": {
+                    "x": 768,
+                    "y": 416
+                }
+            },
+            "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/maps/serpentcrest/map/2"
+        }
+    ],
+    "parallaxLayers": [
+        {
+            "scale": {
+                "x": 1,
+                "y": 1
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "static": false,
+            "layers": [
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/Textures/Parallaxes/layer1.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.001953125,
+                        "y": 0.001953125
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.0033749938,
+                        "y": 0.0033749938
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.010625005,
+                        "y": 0.010625005
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.012734354,
+                        "y": 0.012734354
+                    }
+                },
+                {
+                    "url": "https://raw.githubusercontent.com/ss14Starlight/Starlight.Maps/main/parallax/generated/hq_wizard_stars_dim_faster.png",
+                    "composition": "source-over",
+                    "parallaxScale": {
+                        "x": 0.015648007,
+                        "y": 0.015648007
+                    }
+                }
+            ]
+        }
+    ]
+}
